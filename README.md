@@ -1,4 +1,4 @@
-# Instant Neural Surface Reconstruction
+# Ins  hgjghjtant Neural Surface Reconstruction
 
 This repository contains a concise and extensible implementation of NeRF and NeuS for neural surface reconstruction based on Instant-NGP and the Pytorch-Lightning framework. **Training on a NeRF-Synthetic scene takes ~5min for NeRF and ~10min for NeuS on a single RTX3090.**
 
